@@ -1,6 +1,6 @@
 # Customer Behavioral Analysis & Segmentation
 
-This project aims to explore unsupervised analysis techniques, including clustering and frequent pattern mining, using the dataset from Card Loyalty Prediction project. The goal is to gain insights into user spending behaviors and transaction patterns to understand customer segments and loyalty factors.
+ We will reuse the dataset from Card Loyalty Prediction project, with a different purpose. This project aims to explore unsupervised analysis techniques, including clustering and frequent pattern mining. The goal is to gain insights into user spending behaviors and transaction patterns to understand customer segments and loyalty factors.
 
 ## Clustering Analysis
 
